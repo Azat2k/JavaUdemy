@@ -17,6 +17,7 @@ public class HelloWorld {
         tom.setPet(fido);
 
         System.out.println(tom);
+        System.out.println(jane);
 
 
     }
