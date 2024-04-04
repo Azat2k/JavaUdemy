@@ -11,6 +11,7 @@ public class HelloWorld {
         Person jane = new Person("Jane", "Jackson", LocalDate.of(1985,12,3) );
 
         tom.setSpouse(jane);
+        jane.setSpouse(tom);
 
         Dog fido = new Dog("Fido",LocalDate.of(2018,1,1));
         fido.bark();
