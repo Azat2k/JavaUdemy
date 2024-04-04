@@ -18,7 +18,7 @@ public class HelloWorld {
 
         System.out.println(tom);
         System.out.println(jane);
-
+        System.out.println(fido);
 
     }
 }
